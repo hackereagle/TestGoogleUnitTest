@@ -1,3 +1,4 @@
 googletest/
 build/
 .DS_Store
+test
