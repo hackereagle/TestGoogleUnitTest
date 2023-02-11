@@ -2,3 +2,4 @@ googletest/
 build/
 .DS_Store
 test
+TestGoogleUnitTest

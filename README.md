@@ -13,3 +13,5 @@ First, Please conduct CloneAndCompileGoogleTest.sh to download project and compi
 ```
 </br>
 Sencond, you can write code.
+</br>
+Third, if you finished code and then would like to compile. You can call
