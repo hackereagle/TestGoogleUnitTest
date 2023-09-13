@@ -1,6 +1,7 @@
 #include <iostream>
 #include <gtest/gtest.h>
 #include "TestSetUpConductTimes.hpp"
+#include "TestValueParameterizedTests.hpp"
 
 int myadd(int a, int b) {
     return a + b;
